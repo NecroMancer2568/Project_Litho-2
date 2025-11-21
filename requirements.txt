@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+scikit-learn
+xgboost
+requests
+matplotlib
+seaborn
+Pillow
+plotly
+rasterio
+geopandas
+descartes
+folium
+shapely
+pyproj
